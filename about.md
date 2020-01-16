@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img src="/assets/images/Fredprofile.JPG" alt="Profile Image" style="width:50px;height:100px;">
+<img src="/assets/images/Fredprofile.JPG" alt="Profile Image" style="width:40px;height:100px;">
 
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
