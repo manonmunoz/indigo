@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img src="assets/images/Fredprofile.JPG" alt="Profile Image" style="width:150px;height:200px;">
+<img src="https://github.com/manonmunoz/indigo/blob/gh-pages/assets/images/Fredprofile.JPG?raw=true" alt="Profile Image" style="width:150px;height:200px;">
 
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
