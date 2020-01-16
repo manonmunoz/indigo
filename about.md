@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<img src="https://github.com/manonmunoz/indigo/blob/gh-pages/assets/images/favicon/Fredprofile.JPG" alt="fred" width="150" height="200">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
