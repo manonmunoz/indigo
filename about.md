@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<img src="assets/images/Fredprofile.JPG" alt="Profile Image" style="width:150px;height:200px;">
 
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
