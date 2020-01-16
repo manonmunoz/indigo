@@ -8,7 +8,7 @@ description: A blog about technology and Frog
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/favicon/Fredprofile.JPG
+picture: assets/images/Fredprofile.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
